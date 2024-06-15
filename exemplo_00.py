@@ -1,1 +1,1 @@
-print("hello world")
+print(len(input("Digite seu nome: ")))
